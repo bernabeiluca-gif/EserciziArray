@@ -22,7 +22,7 @@
                 Console.WriteLine(numRandom[i]);
             }
             // es2
-            int[] indiciPari = { 4, 7, 8, 2, 9 };
+            int[] indiciPari = { 5, 7, 8, 4, 9 };
             for (int i=0;i< indiciPari.Length; i++)
             {
                 if(i%2==0)
