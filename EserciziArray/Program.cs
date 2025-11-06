@@ -47,7 +47,7 @@
             {
                 if(vettore1[i]<x)
                 {
-                    contaminore = contamaggiore + 1;
+                    contaminore = contaminore + 1;
                 }
                 else
                 {
